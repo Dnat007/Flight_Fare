@@ -1,5 +1,5 @@
 ### Project started
-# Restaurant Rating Prediction Project
+# Flight Fare Prediction Project
 
 ## Overview
 The Flight Fare Prediction Project is a machine learning-based application that predicts the priceing of the airlines depend on their routes and location that from where you want to capture the flight and where you have to go and there any stopage in your route. Leveraging data analysis and predictive modeling, this project aims to provide insights into the factors influencing flight price ultimately assisting users in making informed decisions about where to go in the cheapest way.
