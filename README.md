@@ -22,7 +22,7 @@ Modules that we have used in the project these modules are :
 
 ## Key Features :
 - **Data Exploration:** Gain insights into the dataset through exploratory data analysis (EDA) to understand the distribution of features, correlations, and potential trends.
-- **Predictive Modeling:** Utilize machine learning algorithms to build a predictive model capable of estimating restaurant ratings based on input features.
+- **Predictive Modeling:** Utilize machine learning algorithms to build a predictive model capable of estimating flight price based on input features.
 - **User-Friendly Interface:** Interact with the model through an intuitive user interface that allows users to input restaurant features and receive a predicted rating.
 
 ## Demo 
@@ -36,7 +36,7 @@ Implementing MLOps ensures a seamless and automated machine learning lifecycle. 
 The CI/CD pipeline is set up to automatically trigger testing, model training, and deployment steps on each code push.
 
 ## AWS Deployment
-Deploying the Restaurant Rating Prediction Project on AWS ensures scalability and accessibility. The application is hosted on an AWS instance for seamless access.
+Deploying the Flight Fare Prediction Project on AWS ensures scalability and accessibility. The application is hosted on an AWS instance for seamless access.
 
 ## License
 This project is licensed under the MIT License.
