@@ -9,6 +9,6 @@ dataclasses
 matplotlib
 ipykernel
 openpyxl
-pickle
+
 # connect to setup.py
 # -e .       
