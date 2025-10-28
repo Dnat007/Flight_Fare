@@ -9,6 +9,6 @@ dill
 matplotlib
 ipykernel
 openpyxl
-
+gunicorn
 # connect to setup.py
 # -e .       
