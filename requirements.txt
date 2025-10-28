@@ -5,7 +5,7 @@ tensorflow
 Flask
 seaborn
 dill
-dataclasses
+#dataclasses
 matplotlib
 ipykernel
 openpyxl
