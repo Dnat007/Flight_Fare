@@ -51,7 +51,7 @@ if __name__ == "__main__":
     
     data_transformation = DataTransformation()
     train_arr , test_arr,_ = data_transformation.initialize_data_transformation(train_data,test_data)
-    
+    # call the model over here 
     Model_trainer = ModelTrainer()
     print(Model_trainer.initiate_model_trainer(train_arr,test_arr))
     
